@@ -1,0 +1,3 @@
+INNER JOIN (JOIN): Retorna apenas os registros que têm correspondência em ambas as tabelas.
+LEFT JOIN: Retorna todos os registros da tabela à esquerda, e, quando não há correspondência na tabela à direita, insere NULL nas colunas correspondentes da tabela à direita.
+RIGHT JOIN: Retorna todos os registros da tabela à direita, e, quando não há correspondência na tabela à esquerda, insere NULL nas colunas correspondentes da tabela à esquerda.
